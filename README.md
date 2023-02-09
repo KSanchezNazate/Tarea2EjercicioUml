@@ -1,2 +1,46 @@
 # Tarea2EjercicioUml
 Tarea2EjercicioUml 06/02/2023
+
+Ejercicio 1:
+"https://www.plantuml.com/plantuml/svg/ROvBZiCW343td09nW96YQ3OZZPGeazryfBc16r1AP73bmAAzJS_IYvKcJH5LMM3ZPvxTp04uH8VYRpUP8SZEyX2Hn3tA3zaH4ijFgNxDoAHUaIzxEJiJcDAZ4flgFrtWnvijf-dRD_dHXgXJSrsIrW_xoB1O2f1t00O_WNeCwI9e1arYIye1rTlxHWfFUugO9JtQmsoaM6FHvu0j8gdC-id87pWkl7ug6x-KAx6UndWT7Lu1"
+
+Ejercicio 2:
+https://www.plantuml.com/plantuml/svg/ZP51JiCm44NtFiN8-ru05QcehK12b4KNhDru92QoFPNjI5o7it0nY4q6h1Y9ZPFyzpN_JxnBsSGyUQUUBoCE6HvDHZKVS0CdzfU8S0jw5lGYtrtHER8yWnSADd5SivCPo1E6N6nFPAt3p46CPtohP1enQhN4tq_a74RFIjwQ8gBgnj2fr1Waxg5C-iaxa0b6bRF9AOeMq9qliB_p-OfXGF7zkVBUHCT9rKTJeafQKA-6qFME2zbiuFUlsC8nmIkD30VyxlOFWwGSK_vu__fCnZBiES2sNcaxe-DIEmnsyfy0
+
+Ejercicio 3:
+https://www.plantuml.com/plantuml/svg/VPBFwjD04CVlUOeXzu3vIJq8Ickf8gGOMl4-tHtBocOdx9yUV0sVmAE77iH7o8kPfUqsMq9F4_X-PhCpdrqwZzQ7JXTV3Zz8UFYaMB2HMDm-u2ry7Su-Q8PtK3QOY7AAhDOnhHUlNaC5zQ9-K-O7_1562OpCy4iJP-a-7AefiVyUElGF3FTiFSLuYv8iWYGOVcliScuLFDj8DSG6hMIG2D-K4Ih3DkFOCICGR1pP4mer_3EnSKV7eD6MnMqZJJYYhOjB6Ni_6-UL3wbX6np5epGq74wMoZkwLa6YZ52BTZYxITIYSZ7uQD48XVVVxQZNIc1nhVdwqmYIOAEXjIYvJEYCXXJEMKZXZ8Hst1bfb0XETRscZ9sJOVY8Eb5J5PASOCD2vNTzuk138CCF1bwAItbYOBAIn2O5yQfMoNkK56nSZyFVg22jju8aQa-WMQ1MFn78mFiqmPLvUSfKaBqwiDT0qaWjoSZG_GS0
+
+Ejercicio 4:
+
+Ejercicio 5:
+
+Ejercicio 6:
+
+Ejercicio 7:
+
+Ejercicio 8:
+
+Ejercicio 9:
+
+Ejercicio 10:
+
+Ejercicio 11:
+
+Ejercicio 12:
+
+Ejercicio 13:
+
+Ejercicio 14:
+
+Ejercicio 15:
+
+Ejercicio 16:
+
+Ejercicio 17:
+
+Ejercicio 18:
+
+Ejercicio 19:
+
+Ejercicio 20:
+
