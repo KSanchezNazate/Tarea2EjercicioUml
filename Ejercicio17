@@ -1,0 +1,59 @@
+@startuml
+Object Biblioteca{
+Nombre : Texto
+Dirección :Texto
+Teléfono :Texto
+Número de empleados : numero
+Año de apertura : Tiempo
+}
+
+Object Planta{
+Número : Número
+Capacidad = Número
+}
+
+Object Temática{
+Nombre : Texto
+}
+
+Object Libro{
+ISBN : Texto
+Titulo :Texto
+Año de publicación :año
+Idioma :enum idioma
+}
+
+Object Ejemplar{
+Código :Texto
+Editorial :Texto
+Año de adquisición :Tiempo
+}
+
+Object Lector{
+Nombre :Texto
+Número de identificación :Texto
+Dirección : Texto
+}
+
+Object Empleado{
+Nombre :Texto
+Código : Texto
+}
+
+Object Préstamo{
+Fecha de inicio : Tiempo
+Fecha estipulada de devolución : Tiempo
+Fecha real de devolución : Tiempo
+}
+
+Biblioteca "1" o-- "1..*" Planta
+Libro "1" o-- "1..*" Ejemplar
+
+Planta "1" -- "1..*" Temática : Alberga > 
+Libro "0..*" - "1..*" Temática : Pertenece A >
+Préstamo "0..*" -- "0.1" Lector : Hecho A >
+Préstamo "0..*" -- "0.1" Empleado : Hecho A >
+Préstamo "0..*" - "1" Ejemplar : Involucra >
+
+
+@enduml
